@@ -67,7 +67,8 @@ This project is implemented in Python with its different libraries being used, a
 In this recommendation system we have used a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models grouped the given data on the text based i.e description and genres. 
 I have created a Dash web app that utlizes used model in colab to recommendations the films based on a user's preferences .
 
-![image description]([https://github.com/Mr-Premanand/Netflix-Movies-And-TV-Shows-Clustering/blob/7f141fab63f45b1f9984b03479dcf9dff94dd2d9/image.png])
+<p>App Link:
+<li><b>https://5hrseajftfr-496ff2e9c6d22116-8050-colab.googleusercontent.com/.<li>
 
 
 
